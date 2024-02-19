@@ -61,7 +61,7 @@ div#d4 {
 /*Eksempel 3*/
 /*
 div {
-  position: relative;
+  position: absolute;
   width: 50%;
   height: 100px;
   border: 5px solid #000000;
@@ -85,7 +85,7 @@ div#d2 {
 div#d3 {
   background-color: blue;
   left: 150px;
-  top: 100px;
+  top: 50px;
   z-index: 1;
 }
 div#d4 {
